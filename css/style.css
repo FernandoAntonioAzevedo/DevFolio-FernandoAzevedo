@@ -1177,6 +1177,11 @@ footer .credits a {
   border-radius: .3rem;
 }
 
+.button.btn-primary {
+ 
+
+}
+
 @media (min-width: 577px) {
   .counter-box {
     margin-bottom: 1.8rem;
@@ -1263,3 +1268,5 @@ footer .credits a {
     bottom: 15px;
   }
 }
+
+
